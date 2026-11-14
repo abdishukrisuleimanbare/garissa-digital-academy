@@ -1,0 +1,64 @@
+/* General website styling */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+}
+
+/* Header styling */
+
+h1 {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+/* Navigation menu */
+
+nav {
+    background-color: black;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+
+/* Main headings */
+
+h2 {
+    color: navy;
+    margin: 20px;
+}
+
+/* Paragraphs */
+
+p {
+    margin: 20px;
+    line-height: 1.6;
+}
+
+/* Lists */
+
+ol {
+    margin: 30px;
+}
+
+/* Contact form */
+
+input, textarea {
+    padding: 10px;
+    margin: 10px;
+}
+
+button {
+    background-color: navy;
+    color: white;
+    padding: 10px;
+}
